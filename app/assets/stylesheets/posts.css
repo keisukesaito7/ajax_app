@@ -1,4 +1,4 @@
-.posts {
+.post {
   background-color: yellow;
   border: 1px solid;
   width: 40%;
@@ -7,4 +7,8 @@
 
 .post-date {
   color: gray;
+}
+
+div[data-check="true"] {
+  background: #585555;
 }
